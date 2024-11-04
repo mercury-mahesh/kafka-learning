@@ -36,7 +36,7 @@ public class WikimediaChangeHandler implements EventHandler {
 
     @Override
     public void onComment(String s) throws Exception {
-
+        //nothing here
     }
 
     @Override
